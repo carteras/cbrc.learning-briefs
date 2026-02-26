@@ -1,0 +1,1 @@
+/home/adam/Documents/GitHub/subject.11.S1.networking-and-security.network-administration-and-security/lectures/week.3.tutorial.tr.md
